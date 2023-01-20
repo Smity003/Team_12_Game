@@ -1,0 +1,1303 @@
+﻿Log file open, 01/16/23 07:31:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=10556)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject3
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:/GAME/MyProject3/MyProject3.uproject -EpicPortal -epicusername=Smity003 -epicuserid=1d294588359f426e87d4e508be9e737e -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.1455] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="91b1d309495966c3678deeae95c65a8b"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.234439
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-61DDF76B4ECB59C5853B0CAAD190552D
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.01 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.01 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosVehiclesPlugin/Content/' mounted to '/ChaosVehiclesPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.1455] (), CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=Smity003 -epicuserid=1d294588359f426e87d4e508be9e737e -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/Personal/Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.16-02.01.06:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.16-02.01.06:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.16-02.01.06:030][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.16-02.01.06:032][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.16-02.01.06:032][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.16-02.01.06:032][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.16-02.01.06:032][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.16-02.01.06:032][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.16-02.01.06:032][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.16-02.01.06:032][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.16-02.01.06:032][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.16-02.01.06:032][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.16-02.01.06:032][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.16-02.01.06:032][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.16-02.01.06:044][  0]LogD3D12RHI: Aftermath initialized
+[2023.01.16-02.01.06:044][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.01.16-02.01.06:171][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1650 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.01.16-02.01.06:171][  0]LogD3D12RHI: Adapter has 3962MB of dedicated video memory, 0MB of dedicated system memory, and 12221MB of shared system memory, 1 output[s]
+[2023.01.16-02.01.06:218][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.01.16-02.01.06:218][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 12221MB of shared system memory, 0 output[s]
+[2023.01.16-02.01.06:228][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.01.16-02.01.06:228][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 12221MB of shared system memory, 0 output[s]
+[2023.01.16-02.01.06:228][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.01.16-02.01.06:228][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.16-02.01.06:228][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.16-02.01.06:228][  0]LogHAL: Display: Platform has ~ 24 GB [25631178752 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.16-02.01.06:228][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.16-02.01.06:228][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.16-02.01.06:228][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.16-02.01.06:228][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.16-02.01.06:228][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GAME/MyProject3/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.16-02.01.06:228][  0]LogInit: Computer: SMITPC
+[2023.01.16-02.01.06:229][  0]LogInit: User: SMITY
+[2023.01.16-02.01.06:229][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.01.16-02.01.06:229][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.16-02.01.06:229][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2023.01.16-02.01.06:229][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.16-02.01.06:229][  0]LogMemory: Process Physical Memory: 270.90 MB used, 272.75 MB peak
+[2023.01.16-02.01.06:229][  0]LogMemory: Process Virtual Memory: 214.88 MB used, 214.88 MB peak
+[2023.01.16-02.01.06:229][  0]LogMemory: Physical Memory: 7953.05 MB used,  16490.75 MB free, 24443.80 MB total
+[2023.01.16-02.01.06:229][  0]LogMemory: Virtual Memory: 12019.20 MB used,  18478.82 MB free, 30498.02 MB total
+[2023.01.16-02.01.06:229][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.16-02.01.06:233][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.16-02.01.06:245][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.16-02.01.06:246][  0]LogInit: Using OS detected language (en-US).
+[2023.01.16-02.01.06:246][  0]LogInit: Using OS detected locale (en-IN).
+[2023.01.16-02.01.06:247][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.01.16-02.01.06:386][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.16-02.01.06:397][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.16-02.01.06:397][  0]LogWindowsTextInputMethodSystem:   - English (India) - (Keyboard).
+[2023.01.16-02.01.06:397][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.01.16-02.01.06:397][  0]LogWindowsTextInputMethodSystem:   - English (India) - Touch Input Correction (TSF IME).
+[2023.01.16-02.01.06:397][  0]LogWindowsTextInputMethodSystem: Activated input method: English (India) - (Keyboard).
+[2023.01.16-02.01.06:409][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.16-02.01.06:409][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.16-02.01.06:587][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.01.16-02.01.06:591][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.01.16-02.01.06:591][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.01.16-02.01.06:667][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.01.16-02.01.06:715][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.01.16-02.01.06:719][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.01.16-02.01.06:731][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.01.16-02.01.06:740][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.01.16-02.01.06:740][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.01.16-02.01.06:771][  0]LogD3D12RHI:     GPU DeviceId: 0x1f99 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.16-02.01.06:771][  0]LogWindows: Attached monitors:
+[2023.01.16-02.01.06:771][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.16-02.01.06:771][  0]LogWindows: Found 1 attached monitors.
+[2023.01.16-02.01.06:771][  0]LogWindows: EnumDisplayDevices:
+[2023.01.16-02.01.06:771][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.01.16-02.01.06:771][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.01.16-02.01.06:771][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.16-02.01.06:771][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.01.16-02.01.06:771][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.01.16-02.01.06:771][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.01.16-02.01.06:772][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.01.16-02.01.06:772][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.01.16-02.01.06:772][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2023.01.16-02.01.06:772][  0]LogD3D12RHI:   Driver Version: 517.00 (internal:31.0.15.1700, unified:517.00)
+[2023.01.16-02.01.06:772][  0]LogD3D12RHI:      Driver Date: 8-2-2022
+[2023.01.16-02.01.06:772][  0]LogRHI: Texture pool is 2121 MB (70% of 3030 MB)
+[2023.01.16-02.01.06:772][  0]LogD3D12RHI: Async texture creation enabled
+[2023.01.16-02.01.06:772][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.01.16-02.01.06:780][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.01.16-02.01.06:786][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/GAME/MyProject3/MyProject3.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/GAME/MyProject3/Intermediate/TurnkeyReport_0.log" -log="D:/GAME/MyProject3/Intermediate/TurnkeyLog_0.log" -project="D:/GAME/MyProject3/MyProject3.uproject"  -platform=all'
+[2023.01.16-02.01.06:786][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Personal/Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/GAME/MyProject3/MyProject3.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/GAME/MyProject3/Intermediate/TurnkeyReport_0.log" -log="D:/GAME/MyProject3/Intermediate/TurnkeyLog_0.log" -project="D:/GAME/MyProject3/MyProject3.uproject"  -platform=all" ]
+[2023.01.16-02.01.06:808][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.16-02.01.06:815][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.16-02.01.06:815][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.16-02.01.06:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.16-02.01.06:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.16-02.01.06:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.16-02.01.06:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.16-02.01.06:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.16-02.01.06:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.16-02.01.06:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.16-02.01.06:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.16-02.01.06:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.16-02.01.06:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.16-02.01.06:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.16-02.01.06:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.16-02.01.06:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.16-02.01.06:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.16-02.01.06:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.16-02.01.06:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.16-02.01.06:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.16-02.01.06:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.16-02.01.06:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.16-02.01.06:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.16-02.01.06:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.16-02.01.06:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.16-02.01.06:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.16-02.01.06:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.16-02.01.06:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.16-02.01.06:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.16-02.01.06:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.16-02.01.06:853][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.16-02.01.06:861][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.16-02.01.06:864][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.16-02.01.06:864][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.16-02.01.06:864][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.16-02.01.06:864][  0]LogTargetPlatformManager:   PCM
+[2023.01.16-02.01.06:867][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.16-02.01.06:867][  0]LogTargetPlatformManager:   BINKA
+[2023.01.16-02.01.06:867][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.16-02.01.06:867][  0]LogTargetPlatformManager:   OGG
+[2023.01.16-02.01.06:867][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.16-02.01.06:867][  0]LogTargetPlatformManager:   OPUS
+[2023.01.16-02.01.06:901][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2023.01.16-02.01.06:901][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.16-02.01.06:906][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.16-02.01.06:909][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.16-02.01.06:909][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.16-02.01.06:909][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.16-02.01.06:909][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.16-02.01.06:909][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.16-02.01.06:909][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.16-02.01.06:909][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.16-02.01.06:909][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.16-02.01.06:909][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../GAME/MyProject3/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.16-02.01.06:909][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.16-02.01.06:909][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../GAME/MyProject3/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.16-02.01.06:910][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.16-02.01.06:912][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GAME/MyProject3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.16-02.01.06:912][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.16-02.01.06:912][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GAME/MyProject3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.16-02.01.06:912][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.16-02.01.06:931][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.16-02.01.06:931][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.16-02.01.06:931][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.16-02.01.06:937][  0]LogDerivedDataCache: Speed tests for C:/Users/SMITY/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.16-02.01.06:937][  0]LogDerivedDataCache: Display: Performance to C:/Users/SMITY/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1676.93MBs, RandomWriteSpeed=184.51MBs. Assigned SpeedClass 'Local'
+[2023.01.16-02.01.06:938][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SMITY/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.16-02.01.06:938][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.16-02.01.06:938][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.16-02.01.06:944][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.16-02.01.06:944][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.16-02.01.06:944][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../../../GAME/MyProject3/Intermediate/Shaders/WorkingDirectory/9168/).
+[2023.01.16-02.01.06:944][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SMITY/AppData/Local/Temp/UnrealShaderWorkingDir/A12CE08E4D58881AD0E61BA38BCFF257/'.
+[2023.01.16-02.01.06:944][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.16-02.01.06:944][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2023.01.16-02.01.08:231][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.16-02.01.08:232][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.16-02.01.08:265][  0]LogAssetRegistry: FAssetRegistry took 0.0103 seconds to start up
+[2023.01.16-02.01.08:270][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.16-02.01.08:457][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.16-02.01.08:457][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.16-02.01.08:645][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.16-02.01.08:645][  0]LogDeviceProfileManager: Active device profile: [00000424DAAA5400][00000424C1DC0000 50] WindowsEditor
+[2023.01.16-02.01.08:645][  0]LogDeviceProfileManager: Profiles: [00000424DAAA4EC0][00000424CDC2A000 50] Windows, [00000424DAAA5400][00000424C1DC0000 50] WindowsEditor, [00000424DAAA1DC0][00000424CDE80000 50] WindowsServer, [00000424DAAA1340][00000424DACD0000 50] WindowsClient, [00000424DAAA2840][00000424DACD5000 50] IOS, [00000424DAAA1180][00000424DACD7800 50] iPadAir2, [00000424DAAA3480][00000424DACDC800 50] IPadPro, [00000424DAAA3100][00000424DACDA000 50] iPadAir3, [00000424DAAA01C0][00000424CDE87800 50] iPadAir4, [00000424DAAA32C0][00000424DACF0000 50] iPadMini4, [00000424DAAA24C0][00000424DACF5000 50] iPadMini5, [00000424DAAA40C0][00000424DACF7800 50] iPadMini6, [00000424DAAA8180][00000424DACD2800 50] iPhone6S, [00000424DAAA8500][00000424DACFC800 50] iPhone7, [00000424DAAA8880][00000424DACFA000 50] iPodTouch7, [00000424DAAA1C00][00000424DAD20000 50] iPhone6SPlus, [00000424DAAA86C0][00000424DAD25000 50] iPhone7Plus, [00000424DAAA39C0][00000424DAD27800 50] iPhoneSE, [00000424DAAA5940][00000424DAD2A000 50] iPhone8, [00000424DAAA5E80][00000424DAD2C800 50] iPhone8Plus, [00000424DAAA6E40][00000424DACF2800 50] iPhoneX, [00000424DAAA55C0][00000424DAD30000 50] iPhoneXS, [00000424DAAA1880][00000424DAD35000 50] iPhoneXSMax, [00000424DAAA4280][00000424DAD37800 50] iPhoneXR, [00000424DAAA6AC0][00000424DAD3A000 50] iPhone11, [00000424DAAA16C0][00000424DAD3C800 50] iPhone11Pro, [00000424DAAA3D40][00000424DAD22800 50] iPhone11ProMax, [00000424DAAA2D80][00000424DAD40000 50] iPhoneSE2, [00000424DAAA6740][00000424DAD45000 50] iPhone12Mini, [00000424DAAA6900][00000424DAD47800 50] iPhone12, [00000424DAAA0380][00000424DAD4A000 50] iPhone12Pro, [00000424DAAA1F80][00000424DAD4C800 50] iPhone12ProMax, [00000424DAAA4600][00000424DAD32800 50] iPhone13Mini, [00000424DAAA6040][00000424DAD50000 50] iPhone13, [00000424DAAA0540][00000424DAD55000 50] iPhone13Pro, [00000424DAAA7FC0][00000424DAD57800 50] iPhone13ProMax, [00000424DAAA8340][00000424DAD5A000 50] iPadPro105, [00000424DAAA63C0][00000424DAD5C800 50] iPadPro129, [00000424DAAA5B00][00000424DAD42800 50] iPadPro97, [00000424DAAA6C80][00000424DAD60000 50] iPadPro2_129, [00000424DAAA8C00][00000424DAD65000 50] iPad5, [00000424DAAA6580][00000424DAD67800 50] iPad6, [00000424DAAA2300][00000424DAD6A000 50] iPad7, [00000424DAAA7E00][00000424DAD6C800 50] iPad8, [00000424DAAA0FC0][00000424DAD52800 50] iPad9, [00000424DAAA3800][00000424DAD80000 50] iPadPro11, [00000424DAAA1A40][00000424DAD85000 50] iPadPro2_11, [00000424DAAA7000][00000424DAD87800 50] iPadPro3_11, [00000424DAAA2680][00000424DAD8A000 50] iPadPro3_129, [00000424DAAA47C0][00000424DAD8C800 50] iPadPro4_129, [00000424DAAA6200][00000424DAD62800 50] iPadPro5_129, [00000424DAAA3640][00000424DAD10000 50] AppleTV, [00000424DAAA4D00][00000424DAD15000 50] AppleTV4K, [00000424DAAA1500][00000424DAD17800 50] TVOS, [00000424DAAAA9C0][00000424DAD1C800 50] Mac, [00000424DAAAA800][00000424DAD1A000 50] MacEditor, [00000424DAAA2F40][00000424DAD82800 50] MacClient, [00000424DAAA2140][00000424DACE0000 50] MacServer, [00000424DAAAB440][00000424DACE7800 50] Linux, [00000424DAAAB7C0][00000424DACE5000 50] LinuxEditor, [00000424DAAAA2C0][00000424DACEA000 50] LinuxArm64Editor, [00000424DAAA2A00][00000424DACEC800 50] LinuxArm64, [00000424DAAA8F80][00000424DAD12800 50] LinuxClient, [00000424DAAA9680][00000424DAD90000 50] LinuxArm64Client, [00000424DAAA3B80][00000424DAD95000 50] LinuxServer, [00000424DAAAB600][00000424DAD97800 50] LinuxArm64Server, [00000424DAAAAB80][00000424DAD9A000 50] Android, [00000424DAAA7C40][00000424DAD9C800 50] Android_Preview_OpenGL, [00000424DAAA7540][00000424DACE2800 50] Android_Preview_Vulkan, [00000424DAAA94C0][00000424DADB0000 50] Android_Low, [00000424DAAA5780][00000424DADB5000 50] Android_Mid, [00000424DAAA7700][00000424DADB7800 50] Android_High, [00000424DAAA9140][00000424DADBA000 50] Android_Default, [00000424DAAA4B40][00000424DADBC800 50] Android_Adreno4xx, [00000424DAAA9A00][00000424DAD92800 50] Android_Adreno5xx_Low, [00000424DAAA3F00][00000424DADD0000 50] Android_Adreno5xx, [00000424DAAA9F40][00000424DADD5000 50] Android_Adreno6xx, [00000424DAAAAD40][00000424DADD7800 50] Android_Adreno6xx_Vulkan, [00000424DAAA2BC0][00000424DADDA000 50] Android_Adreno7xx, [00000424DAAABB40][00000424DADDC800 50] Android_Adreno7xx_Vulkan, [00000424DAAAA480][00000424DADB2800 50] Android_Mali_T6xx, [00000424DAAA4440][00000424DADE0000 50] Android_Mali_T7xx, [00000424DAAA71C0][00000424DADE5000 50] Android_Mali_T8xx, [00000424DAAA8A40][00000424DADE7800 50] Android_Mali_G71, [00000424DAAA0C40][00000424DADEA000 50] Android_Mali_G72, [00000424DAAAC400][00000424DADEC800 50] Android_Mali_G72_Vulkan, [00000424DAAA5240][00000424DADD2800 50] Android_Mali_G76, [00000424DAAA9840][00000424DADF0000 50] Android_Mali_G76_Vulkan, [00000424DAAA9BC0][00000424DADF5000 50] Android_Mali_G77, [00000424DAAAB0C0][00000424DADF7800 50] Android_Mali_G77_Vulkan, [00000424DAAAAF00][00000424DADFA000 50] Android_Mali_G78, [00000424DAAAC940][00000424DADFC800 50] Android_Mali_G78_Vulkan, [00000424DAAACB00][00000424DADE2800 50] Android_Mali_G710, [00000424DAAA9300][00000424DAE00000 50] Android_Mali_G710_Vulkan, [00000424DAAA7A80][00000424DAE05000 50] Android_Xclipse_920, [00000424DAAA9D80][00000424DAE07800 50] Android_Xclipse_920_Vulkan, [00000424DAAAC240][00000424DAE0A000 50] Android_Vulkan_SM5, [00000424DAAAC780][00000424DAE0C800 50] Android_PowerVR_G6xxx, [00000424DAAADAC0][00000424DADF2800 50] Android_PowerVR_GT7xxx, [00000424DAAAA100][00000424DAE10000 50] Android_PowerVR_GE8xxx, [00000424DAAADC80][00000424DAE15000 50] Android_PowerVR_GM9xxx, [00000424DAAAC080][00000424DAE17800 50] Android_PowerVR_GM9xxx_Vulkan, [00000424DAAAE380][00000424DAE1A000 50] Android_TegraK1, [00000424DAAAB980][00000424DAE1C800 50] Android_Unknown_Vulkan, [00000424DAAAD580][00000424DAE02800 50] Oculus_Quest, [00000424DAAA7380][00000424DAE20000 50] Oculus_Quest2, [00000424DAAADE40][00000424DAE25000 50] HoloLens, 
+[2023.01.16-02.01.08:645][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.16-02.01.08:730][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.16-02.01.08:911][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.16-02.01.08:911][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.16-02.01.08:911][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.16-02.01.08:911][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.16-02.01.08:911][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.16-02.01.08:923][  0]LogNetVersion: MyProject3 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 754842639)
+[2023.01.16-02.01.09:040][  0]LogSlate: Border
+[2023.01.16-02.01.09:040][  0]LogSlate: BreadcrumbButton
+[2023.01.16-02.01.09:040][  0]LogSlate: Default
+[2023.01.16-02.01.09:040][  0]LogSlate: Icons.Save
+[2023.01.16-02.01.09:040][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.16-02.01.09:040][  0]LogSlate: ListView
+[2023.01.16-02.01.09:040][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.16-02.01.09:040][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.16-02.01.09:040][  0]LogSlate: TableView.DarkRow
+[2023.01.16-02.01.09:040][  0]LogSlate: TableView.Row
+[2023.01.16-02.01.09:040][  0]LogSlate: TreeView
+[2023.01.16-02.01.09:203][  0]SourceControl: Source control is disabled
+[2023.01.16-02.01.09:229][  0]SourceControl: Source control is disabled
+[2023.01.16-02.01.09:229][  0]SourceControl: Source control is disabled
+[2023.01.16-02.01.09:339][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.16-02.01.09:339][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.01.16-02.01.09:339][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.16-02.01.09:690][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F9E7C29048394B3D7E2DE497D789120D | Instance: 1A3940E145C9A3C7D691448106DD9FE9 (SMITPC-9168).
+[2023.01.16-02.01.09:719][  0]LogPython: Using Python 3.9.7
+[2023.01.16-02.01.10:471][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.16-02.01.10:475][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.16-02.01.10:551][  0]SourceControl: Source control is disabled
+[2023.01.16-02.01.10:554][  0]SourceControl: Source control is disabled
+[2023.01.16-02.01.10:561][  0]SourceControl: Source control is disabled
+[2023.01.16-02.01.10:568][  0]LogUProjectInfo: Found projects:
+[2023.01.16-02.01.10:804][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.16-02.01.10:860][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.16-02.01.10:881][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.16-02.01.10:881][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.16-02.01.10:963][  0]LogCollectionManager: Loaded 0 collections in 0.000646 seconds
+[2023.01.16-02.01.11:034][  0]LogFileCache: Scanning file cache for directory 'D:/GAME/MyProject3/Saved/Collections/' took 0.00s
+[2023.01.16-02.01.11:034][  0]LogFileCache: Scanning file cache for directory 'D:/GAME/MyProject3/Content/Developers/SMITY/Collections/' took 0.00s
+[2023.01.16-02.01.11:034][  0]LogFileCache: Scanning file cache for directory 'D:/GAME/MyProject3/Content/Collections/' took 0.00s
+[2023.01.16-02.01.11:356][  0]LogEngine: Initializing Engine...
+[2023.01.16-02.01.11:370][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.16-02.01.11:371][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.16-02.01.11:624][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.16-02.01.11:624][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.16-02.01.11:634][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.16-02.01.11:663][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.16-02.01.11:663][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.16-02.01.11:685][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.16-02.01.11:686][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.16-02.01.11:686][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.16-02.01.11:686][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.16-02.01.11:686][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.16-02.01.11:686][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.16-02.01.11:686][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.16-02.01.11:686][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.16-02.01.11:686][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.16-02.01.11:686][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.16-02.01.11:686][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.16-02.01.11:686][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.16-02.01.11:686][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.16-02.01.11:687][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.16-02.01.11:687][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.16-02.01.11:687][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.16-02.01.11:691][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.16-02.01.11:910][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.16-02.01.11:910][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.16-02.01.11:912][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.16-02.01.11:913][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.16-02.01.11:913][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.16-02.01.11:913][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.16-02.01.11:914][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.16-02.01.11:914][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.16-02.01.11:914][  0]LogInit: FAudioDevice initialized.
+[2023.01.16-02.01.11:915][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.16-02.01.11:915][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.16-02.01.11:915][  0]LogInit: Texture streaming: Enabled
+[2023.01.16-02.01.11:949][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.16-02.01.11:957][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.16-02.01.11:989][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.16-02.01.11:996][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.16-02.01.11:996][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.16-02.01.19:559][  0]LogLiveCoding: Display: First instance in process group "UE_MyProject3_0xfebb4c33", spawning console
+[2023.01.16-02.01.19:559][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.16-02.01.19:559][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.16-02.01.19:582][  0]LogInit: Transaction tracking system initialized
+[2023.01.16-02.01.19:658][  0]BlueprintLog: New page: Editor Load
+[2023.01.16-02.01.19:857][  0]LocalizationService: Localization service is disabled
+[2023.01.16-02.01.19:907][  0]TimingProfiler: Initialize
+[2023.01.16-02.01.19:907][  0]TimingProfiler: OnSessionChanged
+[2023.01.16-02.01.19:907][  0]LoadingProfiler: Initialize
+[2023.01.16-02.01.19:907][  0]LoadingProfiler: OnSessionChanged
+[2023.01.16-02.01.19:907][  0]NetworkingProfiler: Initialize
+[2023.01.16-02.01.19:907][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.16-02.01.19:907][  0]MemoryProfiler: Initialize
+[2023.01.16-02.01.19:907][  0]MemoryProfiler: OnSessionChanged
+[2023.01.16-02.01.20:574][  0]LogFileCache: Scanning file cache for directory 'D:/GAME/MyProject3/Content/' took 0.03s
+[2023.01.16-02.01.20:574][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.16-02.01.20:653][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.16-02.01.20:654][  0]SourceControl: Source control is disabled
+[2023.01.16-02.01.20:654][  0]LogUnrealEdMisc: Loading editor; pre map load, took 15.596
+[2023.01.16-02.01.20:654][  0]Cmd: MAP LOAD FILE="../../../../../../GAME/MyProject3/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.16-02.01.20:655][  0]LightingResults: New page: Lighting Build
+[2023.01.16-02.01.20:661][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-02.01.20:661][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-02.01.20:661][  0]MapCheck: New page: Map Check
+[2023.01.16-02.01.20:661][  0]LightingResults: New page: Lighting Build
+[2023.01.16-02.01.20:668][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.16-02.01.20:671][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.01.16-02.01.21:073][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.01.16-02.01.21:085][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.16-02.01.21:086][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.01.16-02.01.21:087][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.16-02.01.21:087][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.01.16-02.01.21:213][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\Blueprint\BP_Vehicle.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Physics/CVW_Front_Wheel_vehCar_vehicle03': Can't find file.
+[2023.01.16-02.01.21:213][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Physics/CVW_Front_Wheel_vehCar_vehicle03'
+[2023.01.16-02.01.21:213][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\Blueprint\BP_Vehicle.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Physics/CVW_Rear_Wheel_vehCar_vehicle03': Can't find file.
+[2023.01.16-02.01.21:213][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Physics/CVW_Rear_Wheel_vehCar_vehicle03'
+[2023.01.16-02.01.21:214][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\Blueprint\BP_Vehicle.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Physics/FC_torque_curve_vehCar_vehicle03': Can't find file.
+[2023.01.16-02.01.21:214][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Physics/FC_torque_curve_vehCar_vehicle03'
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\Blueprint\BP_Vehicle.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Mesh/SKM_vehCar_vehicle03': Can't find file.
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Mesh/SKM_vehCar_vehicle03'
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\Blueprint\BP_Vehicle.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_All_Trans_vehCar_vehicle03': Can't find file.
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_All_Trans_vehCar_vehicle03'
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\Blueprint\BP_Vehicle.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_vehCar_vehicle03_No_Wheel': Can't find file.
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_vehCar_vehicle03_No_Wheel'
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\Blueprint\BP_Vehicle.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_Wheel_Front_L_vehCar_vehicle03': Can't find file.
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_Wheel_Front_L_vehCar_vehicle03'
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\Blueprint\BP_Vehicle.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_Wheel_Front_R_vehCar_vehicle03': Can't find file.
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_Wheel_Front_R_vehCar_vehicle03'
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\Blueprint\BP_Vehicle.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_Wheel_Rear_L_vehCar_vehicle03': Can't find file.
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_Wheel_Rear_L_vehCar_vehicle03'
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\Blueprint\BP_Vehicle.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_Wheel_Rear_R_vehCar_vehicle03': Can't find file.
+[2023.01.16-02.01.21:218][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_Wheel_Rear_R_vehCar_vehicle03'
+[2023.01.16-02.01.21:272][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\vehicle03_Car\BP_vehicle03_Car.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_Brake_Pad_L_vehCar_vehicle03': Can't find file.
+[2023.01.16-02.01.21:272][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_Brake_Pad_L_vehCar_vehicle03'
+[2023.01.16-02.01.21:272][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\vehicle03_Car\BP_vehicle03_Car.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_Brake_Pad_R_vehCar_vehicle03': Can't find file.
+[2023.01.16-02.01.21:272][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Mesh/SM_Brake_Pad_R_vehCar_vehicle03'
+[2023.01.16-02.01.21:390][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\Material\MI\MI_Veh_Light.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Texture/T_vehCar_vehicle03_N': Can't find file.
+[2023.01.16-02.01.21:390][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Texture/T_vehCar_vehicle03_N'
+[2023.01.16-02.01.21:409][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\Material\MI\MI_Veh_Rim.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Texture/T_vehCar_vehicle03_AORM': Can't find file.
+[2023.01.16-02.01.21:409][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Texture/T_vehCar_vehicle03_AORM'
+[2023.01.16-02.01.21:409][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\Material\MI\MI_Veh_Rim.uasset: Failed to load '/Game/CitySampleVehicles/vehicle03_Car/Texture/T_vehCar_vehicle03_C': Can't find file.
+[2023.01.16-02.01.21:409][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/CitySampleVehicles/vehicle03_Car/Texture/T_vehCar_vehicle03_C'
+[2023.01.16-02.01.21:679][  0]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\3\J7\FFS4YU0HAIQK620IS8DAKP.uasset: Failed to load '/Game/EasyQuests/Blueprints/BP_In_Collectables': Can't find file.
+[2023.01.16-02.01.21:679][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/EasyQuests/Blueprints/BP_In_Collectables'
+[2023.01.16-02.01.21:679][  0]LogWorldPartition: Warning: Can't load actor guid `82C0499B465B8CCEA6A72894ABED1D7E` ('BP_In_Collectables_C_UAID_5405DB013213365D01_1800227879') from package '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/J7/FFS4YU0HAIQK620IS8DAKP'
+[2023.01.16-02.01.21:682][  0]LogWorldPartition: Warning: Can't load actor guid `492CF66D473715EF64688D80C9012DAD` ('BP_In_Collectables_C_UAID_5405DB013213365D01_1812039880') from package '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6Q/6B3PWCEHXHA6QTRNT56DVE'
+[2023.01.16-02.01.21:705][  0]LogWorldPartition: Warning: Can't load actor guid `A7088E574DDFEBA073B61682A8B5DFC6` ('BP_In_Collectables_C_UAID_5405DB013213365D01_1795946878') from package '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/BW/7H8Q4TOGLQ1TQXCS4E9DGE'
+[2023.01.16-02.01.21:709][  0]LogWorldPartition: Warning: Can't load actor guid `F3166A9A4654D6E44443509411ACC030` ('BP_In_Collectables_C_UAID_5405DB013213385D01_1471403238') from package '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WV/1N72Z1BEFPMJ98WPP2W3S8'
+[2023.01.16-02.01.21:738][  0]LogWorldPartition: Warning: Can't load actor guid `DC9C002F4E4B8C0BF94BD4918688B1AC` ('BP_In_Collectables_C_UAID_5405DB013213385D01_1459165235') from package '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/R0/Y1HQLUPATEBQ3EBFDMHY29'
+[2023.01.16-02.01.21:738][  0]LogWorldPartition: Display: WorldPartition initialize took 651 ms
+[2023.01.16-02.01.21:811][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:811][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:811][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:811][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:812][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.21:816][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.16-02.01.21:827][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.01.16-02.01.21:827][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.16-02.01.21:827][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.184ms to complete.
+[2023.01.16-02.01.21:827][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 1.174
+[2023.01.16-02.01.21:840][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.782
+[2023.01.16-02.01.21:840][  0]LogShaderCompilers: Display: ================================================
+[2023.01.16-02.01.21:840][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.16-02.01.21:840][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.16-02.01.21:840][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.16-02.01.21:840][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.00%
+[2023.01.16-02.01.21:840][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.16-02.01.21:840][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.16-02.01.21:840][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.16-02.01.21:840][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.16-02.01.21:840][  0]LogShaderCompilers: Display: ================================================
+[2023.01.16-02.01.21:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-02.01.21:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-02.01.21:948][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-02.01.21:954][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-02.01.22:007][  0]LogPakFile: Display: Mounted Pak file 'D:/Personal/Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.16-02.01.22:007][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-02.01.22:008][  0]LogPakFile: Display: Mounted Pak file 'D:/Personal/Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.16-02.01.22:008][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-02.01.22:008][  0]LogPakFile: Display: Mounted Pak file 'D:/Personal/Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.16-02.01.22:008][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-02.01.22:009][  0]LogPakFile: Display: Mounted Pak file 'D:/Personal/Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.16-02.01.22:009][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-02.01.22:010][  0]LogPakFile: Display: Mounted Pak file 'D:/Personal/Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.16-02.01.22:010][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-02.01.22:011][  0]LogPakFile: Display: Mounted Pak file 'D:/Personal/Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.16-02.01.22:011][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-02.01.22:012][  0]LogPakFile: Display: Mounted Pak file 'D:/Personal/Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.16-02.01.22:012][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-02.01.22:012][  0]LogPakFile: Display: Mounted Pak file 'D:/Personal/Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.16-02.01.22:012][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-02.01.22:013][  0]LogPakFile: Display: Mounted Pak file 'D:/Personal/Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.16-02.01.22:013][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-02.01.22:014][  0]LogPakFile: Display: Mounted Pak file 'D:/Personal/Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.16-02.01.22:014][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-02.01.22:014][  0]LogFeaturePack: Error: Error in Feature pack D:/Personal/Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.16-02.01.22:208][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.16-02.01.22:212][  0]LogSlate: Took 0.000517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.16-02.01.22:213][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.16-02.01.22:241][  0]LogViewport: Scene viewport resized to 1523x848, mode Windowed.
+[2023.01.16-02.01.22:979][  0]LogStall: Startup...
+[2023.01.16-02.01.22:981][  0]LogStall: Startup complete.
+[2023.01.16-02.01.22:994][  0]LogLoad: (Engine Initialization) Total time: 17.94 seconds
+[2023.01.16-02.01.22:994][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.16-02.01.23:016][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': BP_In_Collectables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_In_Collectables_C_UAID_5405DB013213365D01_1800227879
+[2023.01.16-02.01.23:016][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WorldMarker': BP_In_Collectables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_In_Collectables_C_UAID_5405DB013213365D01_1800227879
+[2023.01.16-02.01.23:016][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': BP_In_Collectables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_In_Collectables_C_UAID_5405DB013213365D01_1812039880
+[2023.01.16-02.01.23:016][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WorldMarker': BP_In_Collectables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_In_Collectables_C_UAID_5405DB013213365D01_1812039880
+[2023.01.16-02.01.23:016][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': BP_In_Collectables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_In_Collectables_C_UAID_5405DB013213365D01_1795946878
+[2023.01.16-02.01.23:016][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WorldMarker': BP_In_Collectables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_In_Collectables_C_UAID_5405DB013213365D01_1795946878
+[2023.01.16-02.01.23:016][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': BP_In_Collectables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_In_Collectables_C_UAID_5405DB013213385D01_1471403238
+[2023.01.16-02.01.23:016][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WorldMarker': BP_In_Collectables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_In_Collectables_C_UAID_5405DB013213385D01_1471403238
+[2023.01.16-02.01.23:016][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': BP_In_Collectables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_In_Collectables_C_UAID_5405DB013213385D01_1459165235
+[2023.01.16-02.01.23:016][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WorldMarker': BP_In_Collectables_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_In_Collectables_C_UAID_5405DB013213385D01_1459165235
+[2023.01.16-02.01.23:044][  0]LogAssetRegistry: Asset discovery search completed in 14.7839 seconds
+[2023.01.16-02.01.23:051][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.01.16-02.01.23:052][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.16-02.01.23:167][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:167][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:167][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:167][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:167][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:168][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:169][  0]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255.VehicleMesh' is not static  (in blueprint "BP_vehicle03_Car"), cannot attach '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255.SplineMesh' which is static to it. Aborting.
+[2023.01.16-02.01.23:169][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:169][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:169][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:169][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:169][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:169][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:169][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:169][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:169][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:169][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:169][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:169][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:170][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:170][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:170][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:170][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:170][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:170][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:170][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:170][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:170][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:170][  0]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.01.23:669][  3]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.01.16-02.02.33:059][453]LogSlate: Window 'Message Log' being destroyed
+[2023.01.16-02.02.33:064][453]LogSlate: Window 'Message Log' being destroyed
+[2023.01.16-02.02.35:664][603]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.16-02.02.36:247][607]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.16-02.02.39:587][806]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.16-02.02.39:592][806]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.16-02.02.39:592][806]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.16-02.02.39:592][806]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.16-02.02.39:592][806]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.16-02.02.39:592][806]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.16-02.02.39:592][806]LogWorldPartition: Display: GetPartitionedActors took 42 us
+[2023.01.16-02.02.39:592][806]LogWorldPartition: Display: GenerateStreaming took 272 us
+[2023.01.16-02.02.39:592][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.16-02.02.39:593][806]PIE: New page: PIE session: ThirdPersonMap (16-Jan-2023, 1:02:39 pm)
+[2023.01.16-02.02.39:596][806]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.01.16-02.02.39:596][806]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.16-02.02.39:596][806]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.16-02.02.39:752][806]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.01.16-02.02.39:752][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155620s)
+[2023.01.16-02.02.39:752][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.155678s)
+[2023.01.16-02.02.39:752][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.16-02.02.39:753][806]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.01.16-02.02.39:753][806]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.16-02.02.39:753][806]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.16-02.02.39:755][806]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.01.16-02.02.39:755][806]LogPlayLevel: PIE: World Init took: (0.003159s)
+[2023.01.16-02.02.39:762][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.01.16-02.02.39:762][806]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.16-02.02.39:763][806]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.16-02.02.39:763][806]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.16-02.02.39:763][806]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.16-02.02.39:763][806]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.16-02.02.39:763][806]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.16-02.02.39:763][806]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.16-02.02.39:763][806]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.16-02.02.39:763][806]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.16-02.02.39:763][806]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.16-02.02.39:763][806]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.16-02.02.39:763][806]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.16-02.02.39:765][806]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.16-02.02.39:787][806]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.16-02.02.39:787][806]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.16-02.02.39:787][806]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.16-02.02.39:787][806]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.16-02.02.39:788][806]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.01.16-02.02.39:788][806]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.01.16-02.02.39:790][806]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.01.16-02.02.39:790][806]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.01.16-02.02.39:790][806]LogInit: FAudioDevice initialized.
+[2023.01.16-02.02.39:790][806]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.01.16-02.02.39:804][806]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.16-02.02.39:828][806]LogVehicle: Warning: Can't create vehicle BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255 (/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255.VehicleMovementComp). Wheel 0 is not set.
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:828][806]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.02.39:829][806]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.01.16-07.32.39
+[2023.01.16-02.02.39:830][806]LogWorld: Bringing up level for play took: 0.026077
+[2023.01.16-02.02.39:832][806]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.01.16-02.02.39:851][806]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.01.16-02.02.39:851][806]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.16-02.02.39:852][806]PIE: Server logged in
+[2023.01.16-02.02.39:852][806]PIE: Play in editor total start time 0.261 seconds.
+[2023.01.16-02.02.49:429][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-02.02.49:429][102]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.16-02.02.49:430][102]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-02.02.49:430][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-02.02.49:457][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.16-02.02.49:460][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-02.02.49:471][102]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.16-02.02.49:471][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.01.16-02.02.49:472][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.01.16-02.02.49:476][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-02.02.49:477][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.01.16-02.02.49:512][103]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.01.16-02.03.10:220][273]LogDerivedDataCache: C:/Users/SMITY/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.099 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.16-02.04.16:815][607]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.16-02.04.16:826][607]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.16-02.04.26:492][ 59]LogMaterial: Display: Missing cached shadermap for MI_vehVan_vehicle09_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 22B418149EA41A25B991523089F9A6BAAFE937B1), compiling. 
+[2023.01.16-02.04.26:807][ 59]LogMaterial: Display: Missing cached shadermap for MI_vehVan_vehicle09_11 in PCD3D_SM5, Default, SM5 (DDC key hash: 67BD6F6AE893DE318F4F0DD41054E3B306FDCA2F), compiling. 
+[2023.01.16-02.04.26:994][ 59]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van
+[2023.01.16-02.04.26:995][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.16-02.04.28:897][ 59]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.16-02.04.44:113][657]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van_C
+[2023.01.16-02.04.44:114][657]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van_C
+[2023.01.16-02.04.44:126][657]LogActorFactory: Actor Factory spawned Blueprint /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van as actor: BP_vehicle09_Van_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle09_Van_C_0
+[2023.01.16-02.04.44:133][657]LogActorFactory: Actor Factory spawned Blueprint /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van as actor: BP_vehicle09_Van_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle09_Van_C_0
+[2023.01.16-02.04.47:787][766]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van_C
+[2023.01.16-02.04.47:787][766]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van_C
+[2023.01.16-02.04.47:798][766]LogActorFactory: Actor Factory spawned Blueprint /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van as actor: BP_vehicle09_Van_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle09_Van_C_1
+[2023.01.16-02.04.47:806][766]LogActorFactory: Actor Factory spawned Blueprint /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van as actor: BP_vehicle09_Van_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle09_Van_C_1
+[2023.01.16-02.04.48:389][787]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van_C
+[2023.01.16-02.04.48:389][787]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van_C
+[2023.01.16-02.04.48:447][787]LogActorFactory: Actor Factory spawned Blueprint /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van as actor: BP_vehicle09_Van_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle09_Van_C_UAID_5405DB0132134F5D01_1547004271
+[2023.01.16-02.04.48:458][787]LogActorFactory: Actor Factory spawned Blueprint /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van as actor: BP_vehicle09_Van_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle09_Van_C_UAID_5405DB0132134F5D01_1547004271
+[2023.01.16-02.04.48:544][788]LogViewport: Scene viewport resized to 600x334, mode Windowed.
+[2023.01.16-02.04.52:526][935]LogViewport: Scene viewport resized to 600x334, mode Windowed.
+[2023.01.16-02.04.55:925][ 60]LogViewport: Scene viewport resized to 600x334, mode Windowed.
+[2023.01.16-02.05.35:007][612]LogShaderCompilers: Display: Worker (1/5) finished batch of 10 jobs in 68.204s, TBasePassPSFSelfShadowedTranslucencyPolicySkylight [WorkerTime=16.813s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=14.594s], TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight [WorkerTime=14.469s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=13.829s], FDebugViewModeVS [WorkerTime=1.566s], TBasePassVSFNoLightMapPolicy [WorkerTime=1.464s], FLumenCardVS [WorkerTime=1.056s], FLumenCardPS<false> [WorkerTime=0.541s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=0.455s], VelocityPipeline
+[2023.01.16-02.05.35:023][612]LogShaderCompilers: Display: ================================================
+[2023.01.16-02.05.35:023][612]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.16-02.05.35:023][612]LogShaderCompilers: Display: Total job queries 349, among them cache hits 0 (0.00%)
+[2023.01.16-02.05.35:023][612]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 9 distinct outputs (90.00%)
+[2023.01.16-02.05.35:023][612]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.01%
+[2023.01.16-02.05.35:023][612]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.16-02.05.35:023][612]LogShaderCompilers: Display: Shaders Compiled: 349
+[2023.01.16-02.05.35:023][612]LogShaderCompilers: Display: Jobs assigned 41, completed 10 (24.39%)
+[2023.01.16-02.05.35:023][612]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.01.16-02.05.35:023][612]LogShaderCompilers: Display: Time job spent in pending queue: average 1.67 s, longest 68.21 s
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display: Job execution time: average 68.20 s, max 68.20 s
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display: Job life time (pending + execution): average 68.21 s, max 68.21
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 68.21 s
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 8.20 jobs/batch
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display: Average processing rate: 0.15 jobs/sec
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display: Effective parallelization: 0.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 16.81 sec, max 16.81 sec, min 16.81 sec)
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 14.59 sec, max 14.59 sec, min 14.59 sec)
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 14.47 sec, max 14.47 sec, min 14.47 sec)
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 13.83 sec, max 13.83 sec, min 13.83 sec)
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 1.57 sec, max 1.57 sec, min 1.57 sec)
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight - 25.95% of total time (compiled    1 times, average 16.81 sec, max 16.81 sec, min 16.81 sec)
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 22.53% of total time (compiled    1 times, average 14.59 sec, max 14.59 sec, min 14.59 sec)
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight - 22.33% of total time (compiled    1 times, average 14.47 sec, max 14.47 sec, min 14.47 sec)
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 21.34% of total time (compiled    1 times, average 13.83 sec, max 13.83 sec, min 13.83 sec)
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display:                                             FDebugViewModeVS - 2.42% of total time (compiled    1 times, average 1.57 sec, max 1.57 sec, min 1.57 sec)
+[2023.01.16-02.05.35:024][612]LogShaderCompilers: Display: ================================================
+[2023.01.16-02.05.36:825][693]LogShaderCompilers: Display: Worker (2/5) finished batch of 10 jobs in 70.026s, TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=16.925s], TBasePassPSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=15.672s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=13.443s], TBasePassPSFSelfShadowedTranslucencyPolicy [WorkerTime=13.285s], TBasePassVSFSelfShadowedTranslucencyPolicy [WorkerTime=2.344s], FDebugViewModePS [WorkerTime=2.315s], TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=2.006s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=1.432s], TBasePassVSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=1.185s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=1.165s]
+[2023.01.16-02.05.58:283][578]LogShaderCompilers: Display: Worker (4/5) finished batch of 10 jobs in 91.490s, TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=22.277s], TBasePassPSFNoLightMapPolicy [WorkerTime=16.790s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=15.680s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=14.051s], TBasePassPSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=13.897s], FHitProxyVS [WorkerTime=1.133s], FLumenCardPS<false> [WorkerTime=0.705s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=0.565s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_Standard> [WorkerTime=0.502s], VelocityPipeline
+[2023.01.16-02.06.19:357][427]LogViewport: Scene viewport resized to 1134x808, mode Windowed.
+[2023.01.16-02.06.33:166][819]LogSlate: Window 'BP_vehicle09_Van' being destroyed
+[2023.01.16-02.06.33:188][819]LogSlate: Window 'BP_vehicle09_Van' being destroyed
+[2023.01.16-02.06.33:194][819]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-02.06.33:194][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-02.06.35:086][899]LogShaderCompilers: Display: Worker (3/5) finished batch of 10 jobs in 128.297s, TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight [WorkerTime=24.358s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=21.264s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=18.003s], TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight [WorkerTime=17.745s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=15.828s], TBasePassPSFNoLightMapPolicy [WorkerTime=13.926s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=13.701s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=1.371s], FLumenTranslucencyRadianceCacheMarkVS [WorkerTime=1.103s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_Standard> [WorkerTime=0.691s]
+[2023.01.16-02.06.36:931][971]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van
+[2023.01.16-02.06.36:932][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.16-02.06.39:197][ 29]LogViewport: Scene viewport resized to 1134x808, mode Windowed.
+[2023.01.16-02.07.13:402][935]LogShaderCompilers: Display: Worker (1/5) finished batch of 10 jobs in 67.092s, TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight [WorkerTime=16.873s], TBasePassPSTLightMapPolicyHQ [WorkerTime=9.899s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=9.327s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=9.194s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=8.771s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=4.447s], TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=4.195s], TBasePassVSTLightMapPolicyHQ [WorkerTime=1.460s], TBasePassVSFNoLightMapPolicy [WorkerTime=1.395s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=1.389s]
+[2023.01.16-02.07.29:735][404]LogShaderCompilers: Display: Worker (2/5) finished batch of 10 jobs in 83.111s, FDebugViewModePS [WorkerTime=40.442s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=10.619s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=10.374s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=9.070s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=3.716s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=3.298s], TBasePassVSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=1.679s], TBasePassVSTLightMapPolicyLQ [WorkerTime=1.577s], FDebugViewModeVS [WorkerTime=1.275s], FLumenTranslucencyRadianceCacheMarkPS [WorkerTime=0.933s]
+[2023.01.16-02.08.08:764][383]LogShaderCompilers: Display: Worker (4/5) finished batch of 10 jobs in 126.225s, FDebugViewModePS [WorkerTime=43.315s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=19.059s], TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=16.585s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=9.643s], TBasePassPSTLightMapPolicyLQ [WorkerTime=8.893s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=8.884s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=8.746s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=8.628s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=1.632s], FHitProxyPS [WorkerTime=0.696s]
+[2023.01.16-02.08.26:124][754]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle09_Van_C_UAID_5405DB0132134F5D01_1547004271.SM_Frame' is not static  (in blueprint "BP_vehicle09_Van"), cannot attach '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle09_Van_C_UAID_5405DB0132134F5D01_1547004271.SplineMesh' which is static to it. Aborting.
+[2023.01.16-02.08.26:129][754]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BP_vehicle09_Van_C_0.SM_Frame' is not static  (in blueprint "BP_vehicle09_Van"), cannot attach '/Engine/Transient.World_3:PersistentLevel.BP_vehicle09_Van_C_0.SplineMesh' which is static to it. Aborting.
+[2023.01.16-02.08.26:173][754]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BP_vehicle09_Van_C_0.SM_Frame' is not static  (in blueprint "BP_vehicle09_Van"), cannot attach '/Engine/Transient.World_3:PersistentLevel.BP_vehicle09_Van_C_0.SplineMesh' which is static to it. Aborting.
+[2023.01.16-02.08.38:909][115]LogShaderCompilers: Display: Worker (3/5) finished batch of 10 jobs in 92.591s, FDebugViewModePS [WorkerTime=50.710s], TBasePassPSFNoLightMapPolicy [WorkerTime=16.383s], TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=4.690s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=4.538s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=4.238s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=4.162s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=4.155s], FLumenCardPS<false> [WorkerTime=1.693s], FLumenCardVS [WorkerTime=1.352s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_Standard> [WorkerTime=0.571s]
+[2023.01.16-02.08.38:923][115]LogShaderCompilers: Display: ================================================
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Total job queries 355, among them cache hits 6 (1.69%)
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Tracking 119 distinct input hashes that result in 84 distinct outputs (70.59%)
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: RAM used: 0.61 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.05%
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Shaders Compiled: 349
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Jobs assigned 159, completed 119 (74.84%)
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Time job spent in pending queue: average 117.95 s, longest 252.15 s
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Job execution time: average 68.38 s, max 128.30 s
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Job life time (pending + execution): average 152.69 s, max 252.15
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 252.15 s
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 6.62 jobs/batch
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Average processing rate: 0.47 jobs/sec
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Effective parallelization: 3.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 34.20 sec, max 50.71 sec, min 2.32 sec)
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 18.86 sec, max 24.36 sec, min 14.47 sec)
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 16.92 sec, max 16.92 sec, min 16.92 sec)
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 16.87 sec, max 16.87 sec, min 16.87 sec)
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 16.81 sec, max 16.81 sec, min 16.81 sec)
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display:                                             FDebugViewModePS - 15.96% of total time (compiled    4 times, average 34.20 sec, max 50.71 sec, min 2.32 sec)
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.80% of total time (compiled    7 times, average 10.77 sec, max 26.98 sec, min 4.15 sec)
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.53% of total time (compiled    6 times, average 12.19 sec, max 22.28 sec, min 3.72 sec)
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.29% of total time (compiled    5 times, average 14.20 sec, max 20.02 sec, min 3.90 sec)
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight - 6.60% of total time (compiled    3 times, average 18.86 sec, max 24.36 sec, min 14.47 sec)
+[2023.01.16-02.08.38:924][115]LogShaderCompilers: Display: ================================================
+[2023.01.16-02.08.41:638][194]LogShaderCompilers: Display: Worker (1/5) finished batch of 10 jobs in 62.735s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=26.560s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=16.453s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=4.710s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=4.202s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=3.857s], TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=1.686s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=1.650s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=1.622s], FDebugViewModeVS [WorkerTime=1.302s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_Standard> [WorkerTime=0.594s]
+[2023.01.16-02.08.48:025][357]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle09_Van_C_UAID_5405DB0132134F5D01_1547004271.SM_Frame' is not static  (in blueprint "BP_vehicle09_Van"), cannot attach '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle09_Van_C_UAID_5405DB0132134F5D01_1547004271.SplineMesh' which is static to it. Aborting.
+[2023.01.16-02.08.48:036][357]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BP_vehicle09_Van_C_0.SM_Frame' is not static  (in blueprint "BP_vehicle09_Van"), cannot attach '/Engine/Transient.World_3:PersistentLevel.BP_vehicle09_Van_C_0.SplineMesh' which is static to it. Aborting.
+[2023.01.16-02.08.48:089][357]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BP_vehicle09_Van_C_0.SM_Frame' is not static  (in blueprint "BP_vehicle09_Van"), cannot attach '/Engine/Transient.World_3:PersistentLevel.BP_vehicle09_Van_C_0.SplineMesh' which is static to it. Aborting.
+[2023.01.16-02.09.20:111][153]LogShaderCompilers: Display: Worker (4/5) finished batch of 10 jobs in 71.360s, TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=21.264s], TBasePassPSFSelfShadowedTranslucencyPolicySkylight [WorkerTime=17.544s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=5.951s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=5.103s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=4.400s], TBasePassPSFNoLightMapPolicy [WorkerTime=4.295s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=4.097s], TBasePassPSFNoLightMapPolicy [WorkerTime=3.541s], FLumenCardPS<false> [WorkerTime=3.341s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=1.692s]
+[2023.01.16-02.10.04:022][930]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CitySampleVehicles/vehicle03_Car/BP_vehicle03_Car.BP_vehicle03_Car
+[2023.01.16-02.10.04:023][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.16-02.10.04:865][930]PIE: Warning: AttachTo: '/Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0.VehicleMesh' is not static  (in blueprint "BP_vehicle03_Car"), cannot attach '/Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0.SplineMesh' which is static to it. Aborting.
+[2023.01.16-02.10.04:865][930]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0)
+[2023.01.16-02.10.04:865][930]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0)
+[2023.01.16-02.10.04:865][930]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0)
+[2023.01.16-02.10.04:865][930]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0)
+[2023.01.16-02.10.04:865][930]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0)
+[2023.01.16-02.10.04:865][930]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0)
+[2023.01.16-02.10.04:865][930]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0)
+[2023.01.16-02.10.04:865][930]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0)
+[2023.01.16-02.10.04:865][930]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0)
+[2023.01.16-02.10.04:865][930]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0)
+[2023.01.16-02.10.04:865][930]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0)
+[2023.01.16-02.10.04:865][930]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Engine/Transient.World_4:PersistentLevel.BP_vehicle03_Car_C_0)
+[2023.01.16-02.10.24:155][621]LogShaderCompilers: Display: Worker (3/5) finished batch of 10 jobs in 105.253s, FDebugViewModePS [WorkerTime=60.723s], TBasePassPSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=20.586s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=4.836s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=4.317s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=4.133s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=4.116s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=1.914s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=1.666s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=1.463s], FLumenCardPS<false> [WorkerTime=1.430s]
+[2023.01.16-02.10.31:398][862]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.16-02.10.31:398][862]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_vehicle09_Van_C_33 has parent /Game/CitySampleVehicles/Blueprint/BP_Vehicle.SKEL_BP_Vehicle_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.16-02.10.31:398][862]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_vehicle09_Van_C_35 has parent /Game/CitySampleVehicles/Blueprint/BP_Vehicle.SKEL_BP_Vehicle_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.16-02.10.31:399][862]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_vehicle09_Van_C_37 has parent /Game/CitySampleVehicles/Blueprint/BP_Vehicle.SKEL_BP_Vehicle_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.16-02.10.31:399][862]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_vehicle09_Van_C_39 has parent /Game/CitySampleVehicles/Blueprint/BP_Vehicle.SKEL_BP_Vehicle_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.16-02.10.31:399][862]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_vehicle09_Van_C_41 has parent /Game/CitySampleVehicles/Blueprint/BP_Vehicle.SKEL_BP_Vehicle_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.16-02.10.31:399][862]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_vehicle09_Van_C_43 has parent /Game/CitySampleVehicles/Blueprint/BP_Vehicle.SKEL_BP_Vehicle_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.16-02.10.37:245][ 46]LogShaderCompilers: Display: Worker (1/5) finished batch of 10 jobs in 115.630s, FDebugViewModePS [WorkerTime=57.494s], TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=21.260s], TBasePassPSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=17.494s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=3.875s], TBasePassPSFNoLightMapPolicy [WorkerTime=3.758s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> [WorkerTime=3.685s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=3.291s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> [WorkerTime=1.830s], FLumenCardVS [WorkerTime=1.488s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> [WorkerTime=1.303s]
+[2023.01.16-02.10.39:380][119]LogShaderCompilers: Display: Worker (4/5) finished batch of 10 jobs in 79.273s, TBasePassPSFSelfShadowedTranslucencyPolicy [WorkerTime=31.012s], TBasePassPSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=20.438s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=16.882s], FLumenCardPS<false> [WorkerTime=1.728s], TBasePassVSTLightMapPolicyLQ [WorkerTime=1.635s], FLumenCardPS<false> [WorkerTime=1.598s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=1.495s], TBasePassVSFNoLightMapPolicy [WorkerTime=1.484s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=1.469s], FDebugViewModeVS [WorkerTime=1.433s]
+[2023.01.16-02.10.56:819][736]LogShaderCompilers: Display: Worker (2/5) finished batch of 10 jobs in 77.728s, FDebugViewModePS [WorkerTime=44.574s], FDebugViewModePS [WorkerTime=5.986s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=4.602s], TBasePassPSFNoLightMapPolicy [WorkerTime=4.300s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=3.902s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=3.801s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=3.585s], FLumenCardVS [WorkerTime=3.125s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=1.861s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=1.845s]
+[2023.01.16-02.11.02:019][920]LogEditorTransaction: Undo Delete current selection
+[2023.01.16-02.11.35:476][ 73]LogHttp: Warning: 000004251C7A3200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B482CDC0D-430E-6981-39B0-FB8677E6EBCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=91b1d309495966c3678deeae95c65a8b%7C1d294588359f426e87d4e508be9e737e%7C29b4f635-e1ce-407c-9b52-2ba897b2220b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.01.16-02.11.35:476][ 73]LogHttp: Warning: 000004251C7A3200: request failed, libcurl error: 0 (No error)
+[2023.01.16-02.11.35:476][ 73]LogHttp: Warning: 000004251C7A3200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x424c68d0000 [can pipeline])
+[2023.01.16-02.11.35:476][ 73]LogHttp: Warning: 000004251C7A3200: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2023.01.16-02.11.35:476][ 73]LogHttp: Warning: 000004251C7A3200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.21.155.147) port 443 (#0))
+[2023.01.16-02.11.35:476][ 73]LogHttp: Warning: 000004251C7A3200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.01.16-02.11.35:476][ 73]LogHttp: Warning: 000004251C7A3200: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2023.01.16-02.11.35:476][ 73]LogHttp: Warning: 000004251C7A3200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.01.16-02.11.35:476][ 73]LogHttp: Warning: 000004251C7A3200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.01.16-02.11.35:476][ 73]LogHttp: Warning: 000004251C7A3200: libcurl info message cache 7 (Closing connection 0)
+[2023.01.16-02.11.35:476][ 73]LogHttp: Warning: 000004251C7A3200: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2023.01.16-02.11.35:476][ 73]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B482CDC0D-430E-6981-39B0-FB8677E6EBCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=91b1d309495966c3678deeae95c65a8b%7C1d294588359f426e87d4e508be9e737e%7C29b4f635-e1ce-407c-9b52-2ba897b2220b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.01.16-02.11.53:880][520]LogShaderCompilers: Display: Worker (4/5) finished batch of 10 jobs in 74.513s, TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=26.002s], TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=19.466s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=18.746s], TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=1.991s], TBasePassVSTLightMapPolicyHQ [WorkerTime=1.595s], FLumenTranslucencyRadianceCacheMarkVS [WorkerTime=1.581s], TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=1.476s], FHitProxyVS [WorkerTime=1.454s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=1.445s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=0.624s]
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: ================================================
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Total job queries 355, among them cache hits 6 (1.69%)
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Tracking 209 distinct input hashes that result in 112 distinct outputs (53.59%)
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: RAM used: 0.79 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.06%
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Shaders Compiled: 349
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Jobs assigned 249, completed 209 (83.94%)
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Time job spent in pending queue: average 197.99 s, longest 447.15 s
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Job execution time: average 72.07 s, max 128.30 s
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Job life time (pending + execution): average 233.07 s, max 447.15
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 447.15 s
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Jobs were issued in 33 batches (only local compilation was used), average 7.55 jobs/batch
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Average processing rate: 0.47 jobs/sec
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Effective parallelization: 3.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    8 times, average 38.19 sec, max 60.72 sec, min 2.32 sec)
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 22.15 sec, max 31.01 sec, min 13.29 sec)
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    3 times, average 21.40 sec, max 26.00 sec, min 16.92 sec)
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    6 times, average 19.15 sec, max 26.84 sec, min 13.90 sec)
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 18.86 sec, max 24.36 sec, min 14.47 sec)
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display:                                             FDebugViewModePS - 19.73% of total time (compiled    8 times, average 38.19 sec, max 60.72 sec, min 2.32 sec)
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy - 7.42% of total time (compiled    6 times, average 19.15 sec, max 26.84 sec, min 13.90 sec)
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.09% of total time (compiled   10 times, average 10.98 sec, max 22.28 sec, min 3.72 sec)
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.06% of total time (compiled    9 times, average 10.43 sec, max 18.75 sec, min 3.60 sec)
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.61% of total time (compiled    9 times, average 9.66 sec, max 20.02 sec, min 3.54 sec)
+[2023.01.16-02.11.53:896][520]LogShaderCompilers: Display: ================================================
+[2023.01.16-02.12.03:345][824]LogShaderCompilers: Display: Worker (3/5) finished batch of 10 jobs in 99.223s, TBasePassPSFSelfShadowedTranslucencyPolicy [WorkerTime=20.181s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=18.740s], TBasePassPSTLightMapPolicyHQ [WorkerTime=18.452s], TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight [WorkerTime=17.397s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=8.882s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=5.107s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=4.245s], FLumenTranslucencyRadianceCacheMarkPS [WorkerTime=2.519s], FDebugViewModeVS [WorkerTime=1.893s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=1.683s]
+[2023.01.16-02.12.05:890][902]LogShaderCompilers: Display: Worker (1/5) finished batch of 10 jobs in 88.645s, TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight [WorkerTime=25.477s], TBasePassPSTLightMapPolicyLQ [WorkerTime=18.885s], TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight [WorkerTime=18.711s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=18.211s], TBasePassVSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=1.750s], FHitProxyVS [WorkerTime=1.481s], FDebugViewModeVS [WorkerTime=1.394s], TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=1.350s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=0.639s], FHitProxyPS [WorkerTime=0.628s]
+[2023.01.16-02.12.12:650][ 93]LogShaderCompilers: Display: Worker (2/5) finished batch of 10 jobs in 75.836s, TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=19.864s], TBasePassPSFSelfShadowedTranslucencyPolicySkylight [WorkerTime=19.121s], TBasePassPSFSelfShadowedTranslucencyPolicySkylight [WorkerTime=17.597s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=6.471s], FLumenCardVS [WorkerTime=3.540s], TBasePassVSTLightMapPolicyLQ [WorkerTime=1.880s], TBasePassVSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=1.553s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=1.369s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=1.349s], VelocityPipeline
+[2023.01.16-02.12.55:890][489]BlueprintLog: New page: Compile BP_vehicle09_Van
+[2023.01.16-02.12.55:935][489]LogBlueprint: Error: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\vehicle09_Van\BP_vehicle09_Van.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of BP Vehicle 03 Car Object References is not compatible with Array of BP Vehicle 09 Van Object References.' at  Get (a copy)
+[2023.01.16-02.12.55:938][489]LogBlueprint: Error: [AssetLog] D:\GAME\MyProject3\Content\CitySampleVehicles\vehicle09_Van\BP_vehicle09_Van.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2023.01.16-02.12.56:231][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.01.16-02.13.19:990][307]LogShaderCompilers: Display: Worker (4/5) finished batch of 10 jobs in 86.118s, TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=20.390s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=19.162s], TBasePassPSTLightMapPolicyLQ [WorkerTime=19.044s], TBasePassPSFSelfShadowedTranslucencyPolicy [WorkerTime=17.512s], FDebugViewModePS [WorkerTime=2.748s], TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=1.526s], FLumenCardVS [WorkerTime=1.410s], TBasePassVSFSelfShadowedTranslucencyPolicy [WorkerTime=1.400s], FLumenCardPS<false> [WorkerTime=0.488s], VelocityPipeline
+[2023.01.16-02.13.59:504][375]LogShaderCompilers: Display: Worker (3/5) finished batch of 10 jobs in 116.178s, TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=23.710s], TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=21.305s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=20.485s], TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=19.409s], TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=17.643s], FDebugViewModePS [WorkerTime=6.413s], FDebugViewModePS [WorkerTime=2.528s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=1.668s], TBasePassVSFSelfShadowedTranslucencyPolicy [WorkerTime=1.479s], FDebugViewModeVS [WorkerTime=1.423s]
+[2023.01.16-02.14.01:734][452]LogShaderCompilers: Display: Worker (1/5) finished batch of 10 jobs in 115.877s, TBasePassPSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=26.975s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=20.732s], TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=19.388s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=18.890s], TBasePassPSFSelfShadowedTranslucencyPolicy [WorkerTime=17.832s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> [WorkerTime=3.699s], TBasePassVSFSelfShadowedTranslucencyPolicy [WorkerTime=1.775s], TBasePassVSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=1.746s], FLumenCardVS [WorkerTime=1.549s], VelocityPipeline
+[2023.01.16-02.14.09:239][692]BlueprintLog: New page: Compile BP_vehicle09_Van
+[2023.01.16-02.14.09:366][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.01.16-02.14.11:722][766]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.01.16-02.14.11:823][766]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2023.01.16-02.14.12:023][766]LogD3D12RHI: Warning: Waited for PSO creation for 400.000000ms
+[2023.01.16-02.14.13:442][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van" FILE="../../../../../../GAME/MyProject3/Content/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.uasset" SILENT=true
+[2023.01.16-02.14.13:451][766]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.007543 seconds
+[2023.01.16-02.14.13:493][766]LogSavePackage: Moving output files for package: /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van
+[2023.01.16-02.14.13:493][766]LogSavePackage: Moving '../../../../../../GAME/MyProject3/Saved/BP_vehicle09_Van7FFD471A458904EB1D749B9D2B82270A.tmp' to '../../../../../../GAME/MyProject3/Content/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.uasset'
+[2023.01.16-02.14.13:512][766]AssetCheck: New page: Asset Save: BP_vehicle09_Van
+[2023.01.16-02.14.13:527][766]LogContentValidation: Display: Validating Blueprint /Game/CitySampleVehicles/vehicle09_Van/BP_vehicle09_Van.BP_vehicle09_Van
+[2023.01.16-02.14.15:320][833]LogSlate: Window 'BP_vehicle03_Car' being destroyed
+[2023.01.16-02.14.15:327][833]LogSlate: Window 'BP_vehicle03_Car' being destroyed
+[2023.01.16-02.14.15:381][833]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-02.14.15:381][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-02.14.15:524][833]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.16-02.14.15:524][833]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-02.14.15:524][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-02.14.16:755][888]LogShaderCompilers: Display: Worker (2/5) finished batch of 10 jobs in 124.137s, TBasePassPSFNoLightMapPolicy [WorkerTime=28.767s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=19.574s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=18.926s], TBasePassPSFSelfShadowedTranslucencyPolicy [WorkerTime=18.819s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=17.795s], TBasePassPSTLightMapPolicyHQ [WorkerTime=16.434s], TBasePassVSFNoLightMapPolicy [WorkerTime=1.729s], FLumenTranslucencyRadianceCacheMarkPS [WorkerTime=0.756s], FHitProxyPS [WorkerTime=0.622s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_Standard> [WorkerTime=0.601s]
+[2023.01.16-02.14.22:396][130]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.16-02.14.22:421][130]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.16-02.14.22:421][130]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.16-02.14.22:422][130]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.16-02.14.22:422][130]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.16-02.14.22:422][130]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.16-02.14.22:422][130]LogWorldPartition: Display: GetPartitionedActors took 136 us
+[2023.01.16-02.14.22:423][130]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2023.01.16-02.14.22:423][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.16-02.14.22:424][130]PIE: New page: PIE session: ThirdPersonMap (16-Jan-2023, 1:14:22 pm)
+[2023.01.16-02.14.22:424][130]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.16-02.14.22:440][130]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.01.16-02.14.22:440][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016478s)
+[2023.01.16-02.14.22:440][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.016644s)
+[2023.01.16-02.14.22:441][130]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.16-02.14.22:442][130]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.01.16-02.14.22:443][130]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.16-02.14.22:443][130]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.16-02.14.22:448][130]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2023.01.16-02.14.22:448][130]LogPlayLevel: PIE: World Init took: (0.007244s)
+[2023.01.16-02.14.22:493][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.01.16-02.14.22:507][130]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.01.16-02.14.22:507][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.16-02.14.22:507][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.16-02.14.22:507][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.16-02.14.22:507][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.16-02.14.22:507][130]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.16-02.14.22:507][130]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.16-02.14.22:507][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.16-02.14.22:508][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.16-02.14.22:509][130]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.16-02.14.22:509][130]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.16-02.14.22:509][130]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.16-02.14.22:512][130]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.16-02.14.22:548][130]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.16-02.14.22:548][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.16-02.14.22:548][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.16-02.14.22:548][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.16-02.14.22:548][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.01.16-02.14.22:549][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.01.16-02.14.22:553][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.01.16-02.14.22:553][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.01.16-02.14.22:553][130]LogInit: FAudioDevice initialized.
+[2023.01.16-02.14.22:553][130]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2023.01.16-02.14.22:571][130]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.16-02.14.22:574][130]LogVehicle: Warning: Can't create vehicle BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255 (/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255.VehicleMovementComp). Wheel 0 is not set.
+[2023.01.16-02.14.22:574][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:574][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:574][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:574][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:574][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:574][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:574][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:574][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:574][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:574][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:575][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:575][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_r): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:575][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:575][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:575][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_rear_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:575][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:575][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:575][130]LogSkinnedMeshComp: Warning: GetSocketInfoByName(wheel_front_turn_l): No SkeletalMesh for Component(VehicleMesh) Actor(BP_vehicle03_Car_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_vehicle03_Car_C_UAID_5405DB013213F45C01_1113397255)
+[2023.01.16-02.14.22:581][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.01.16-02.14.22:581][130]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.01.16-07.44.22
+[2023.01.16-02.14.22:582][130]LogWorld: Bringing up level for play took: 0.010568
+[2023.01.16-02.14.22:585][130]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.01.16-02.14.22:589][130]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.01.16-02.14.22:589][130]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.16-02.14.22:852][130]PIE: Server logged in
+[2023.01.16-02.14.22:853][130]PIE: Play in editor total start time 0.433 seconds.
+[2023.01.16-02.14.38:378][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-02.14.38:378][749]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.16-02.14.38:378][749]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-02.14.38:379][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-02.14.38:406][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.16-02.14.38:416][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-02.14.38:460][749]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.16-02.14.38:463][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.01.16-02.14.38:466][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.01.16-02.14.38:474][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-02.14.38:479][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.01.16-02.14.38:549][750]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.01.16-02.15.14:483][392]LogShaderCompilers: Display: Worker (3/5) finished batch of 10 jobs in 74.995s, TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight [WorkerTime=17.705s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=17.631s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=16.260s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=15.111s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=1.722s], FLumenTranslucencyRadianceCacheMarkVS [WorkerTime=1.482s], TBasePassVSFNoLightMapPolicy [WorkerTime=1.443s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> [WorkerTime=1.437s], TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=1.399s], FLumenCardPS<false> [WorkerTime=0.649s]
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: ================================================
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Total job queries 355, among them cache hits 6 (1.69%)
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Tracking 299 distinct input hashes that result in 143 distinct outputs (47.83%)
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: RAM used: 1.07 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.09%
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Shaders Compiled: 349
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Jobs assigned 333, completed 299 (89.79%)
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Time job spent in pending queue: average 284.27 s, longest 647.80 s
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Job execution time: average 77.94 s, max 128.30 s
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Job life time (pending + execution): average 327.42 s, max 647.80
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 647.80 s
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Jobs were issued in 42 batches (only local compilation was used), average 7.93 jobs/batch
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Average processing rate: 0.46 jobs/sec
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Effective parallelization: 3.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   12 times, average 26.64 sec, max 60.72 sec, min 2.32 sec)
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    7 times, average 20.27 sec, max 26.98 sec, min 13.90 sec)
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    6 times, average 20.10 sec, max 26.00 sec, min 16.92 sec)
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    6 times, average 19.77 sec, max 31.01 sec, min 13.29 sec)
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    4 times, average 19.18 sec, max 25.48 sec, min 15.67 sec)
+[2023.01.16-02.15.14:503][392]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.16-02.15.14:504][392]LogShaderCompilers: Display:                                             FDebugViewModePS - 13.53% of total time (compiled   12 times, average 26.64 sec, max 60.72 sec, min 2.32 sec)
+[2023.01.16-02.15.14:504][392]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.39% of total time (compiled   12 times, average 12.58 sec, max 26.56 sec, min 3.87 sec)
+[2023.01.16-02.15.14:504][392]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy - 6.01% of total time (compiled    7 times, average 20.27 sec, max 26.98 sec, min 13.90 sec)
+[2023.01.16-02.15.14:504][392]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.97% of total time (compiled   12 times, average 11.75 sec, max 23.71 sec, min 3.30 sec)
+[2023.01.16-02.15.14:504][392]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.95% of total time (compiled   12 times, average 11.72 sec, max 26.98 sec, min 4.15 sec)
+[2023.01.16-02.15.14:504][392]LogShaderCompilers: Display: ================================================
+[2023.01.16-02.15.15:967][455]LogLinker: Warning: [AssetLog] D:\GAME\MyProject3\Content\AccuCities\Maps\AccuCities_SeparateTexturedModel_Sample.umap: Failed to load '/SunPosition/SunSky': Can't find file.
+[2023.01.16-02.15.15:967][455]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /SunPosition/SunSky'
+[2023.01.16-02.16.06:285][455]LogShaderCompilers: Display: Worker (4/5) finished batch of 10 jobs in 118.877s, TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=28.875s], TBasePassPSFNoLightMapPolicy [WorkerTime=18.076s], TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight [WorkerTime=17.136s], TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight [WorkerTime=16.871s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=16.047s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=15.829s], FHitProxyVS [WorkerTime=1.640s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> [WorkerTime=1.329s], FLumenCardPS<false> [WorkerTime=0.792s], VelocityPipeline
+[2023.01.16-02.16.06:285][455]LogTexture: Display: Building textures: /Game/AccuCities/Core/Materials/Tiles/Textures/River/T_Water_02_N.T_Water_02_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.16-02.16.06:285][455]LogTexture: Display: Building textures: /Game/AccuCities/Core/Materials/Tiles/Textures/T_NormalMap_Standard.T_NormalMap_Standard (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.16-02.16.06:285][455]LogTexture: Display: Building textures: /Game/AccuCities/Core/Materials/Tiles/Textures/T_TQ3382_Map.T_TQ3382_Map (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.16-02.16.06:285][455]LogMaterial: Display: Missing cached shadermap for M_River in PCD3D_SM5, Default, SM5 (DDC key hash: D40CE20DB011477CA571A4E35092F450EA50886F), compiling. 
+[2023.01.16-02.16.06:308][455]LogMaterial: Display: Missing cached shadermap for PP_Outline in PCD3D_SM5, Default, SM5 (DDC key hash: EFE91CDED2517D40896EFAAA233AD661215E3A5A), compiling. 
+[2023.01.16-02.16.06:331][455]LogTexture: Display: Building textures: /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/RealisticBuildings/NewsBuilding/T_NewsBuilding_BaseColor.T_NewsBuilding_BaseColor (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.16-02.16.06:331][455]LogTexture: Display: Building textures: /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/RealisticBuildings/TheShard/T_TheShard_AORM.T_TheShard_AORM (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.16-02.16.06:331][455]LogMaterial: Display: Missing cached shadermap for M_StandardMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C6C1C07CB5838CB1F44C1B592AD78D84A3A25DDA), compiling. 
+[2023.01.16-02.16.06:401][455]LogTexture: Display: Building textures: /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/RealisticBuildings/TheShard/T_TheShard_BaseColor.T_TheShard_BaseColor (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.16-02.16.06:401][455]LogMaterial: Display: Missing cached shadermap for M_CityTexturedMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E2681F1DBDE086BBC5C46665D3F2E101C59D36AC), compiling. 
+[2023.01.16-02.16.06:479][455]LogTexture: Display: Building textures: /Game/AccuCities/Core/Materials/Tiles/Textures/River/T_Detail_Rocky_N.T_Detail_Rocky_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.16-02.16.06:479][455]LogTexture: Display: Building textures: /Game/AccuCities/Core/Materials/Tiles/Textures/River/T_Water_01_N.T_Water_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.16-02.16.06:479][455]LogMaterial: Display: Missing cached shadermap for M_TQ3280SE_Building0076 in PCD3D_SM5, Default, SM5 (DDC key hash: FF2A5019C21E95E5D1721B8FA752FAB45AC7700F), compiling. 
+[2023.01.16-02.16.06:513][455]LogMaterial: Display: Missing cached shadermap for M_TQ3280SE_Building0076_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1E0A327E0C6055FA730E488420ED65D01E8D3A63), compiling. 
+[2023.01.16-02.16.06:549][455]LogStaticMesh: Display: Building static mesh SM_NewsBuilding...
+[2023.01.16-02.16.06:550][455]LogMaterial: Display: Missing cached shadermap for M_TQ3280SE_ROAD-TERRAIN in PCD3D_SM5, Default, SM5 (DDC key hash: 76CBD6A1636E590B143B0452FC31FD79C4F217F8), compiling. 
+[2023.01.16-02.16.06:584][455]LogMaterial: Display: Missing cached shadermap for M_TQ3280SE_ROAD in PCD3D_SM5, Default, SM5 (DDC key hash: E1B10C7B1919A8778C5545587BC3F38DC353AA2B), compiling. 
+[2023.01.16-02.16.06:618][455]LogMaterial: Display: Missing cached shadermap for M_TQ3280SE_TERRAIN in PCD3D_SM5, Default, SM5 (DDC key hash: 36F8CA204E44A99734082F070701027155AA45F7), compiling. 
+[2023.01.16-02.16.06:842][455]LogStaticMesh: Display: Building static mesh SM_TheShard...
+[2023.01.16-02.16.07:543][455]LogTexture: Display: Building textures: /Game/AccuCities/Core/Materials/Tiles/TexturedModel/T_TexturedBuilding_SampleTexture.T_TexturedBuilding_SampleTexture (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.01.16-02.16.07:682][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.01.16-02.16.08:755][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0001...
+[2023.01.16-02.16.08:826][455]LogStaticMesh: Built static mesh [0.07s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0001.SM_TQ3280NE_Building0001
+[2023.01.16-02.16.08:844][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0002...
+[2023.01.16-02.16.08:844][455]LogStaticMesh: Built static mesh [0.01s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0002.SM_TQ3280NE_Building0002
+[2023.01.16-02.16.08:845][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0003...
+[2023.01.16-02.16.08:949][455]LogStaticMesh: Built static mesh [0.10s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0003.SM_TQ3280NE_Building0003
+[2023.01.16-02.16.08:961][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0004...
+[2023.01.16-02.16.08:969][455]LogStaticMesh: Built static mesh [0.00s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0004.SM_TQ3280NE_Building0004
+[2023.01.16-02.16.08:969][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0005...
+[2023.01.16-02.16.08:988][455]LogStaticMesh: Built static mesh [0.02s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0005.SM_TQ3280NE_Building0005
+[2023.01.16-02.16.08:996][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0006...
+[2023.01.16-02.16.09:186][455]LogStaticMesh: Built static mesh [0.19s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0006.SM_TQ3280NE_Building0006
+[2023.01.16-02.16.09:213][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0007...
+[2023.01.16-02.16.09:268][455]LogStaticMesh: Built static mesh [0.06s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0007.SM_TQ3280NE_Building0007
+[2023.01.16-02.16.09:287][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0008...
+[2023.01.16-02.16.09:350][455]LogStaticMesh: Built static mesh [0.07s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0008.SM_TQ3280NE_Building0008
+[2023.01.16-02.16.09:368][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0009...
+[2023.01.16-02.16.09:396][455]LogStaticMesh: Built static mesh [0.03s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0009.SM_TQ3280NE_Building0009
+[2023.01.16-02.16.09:404][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0010...
+[2023.01.16-02.16.09:551][455]LogStaticMesh: Built static mesh [0.15s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0010.SM_TQ3280NE_Building0010
+[2023.01.16-02.16.09:579][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0011...
+[2023.01.16-02.16.09:605][455]LogStaticMesh: Built static mesh [0.02s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0011.SM_TQ3280NE_Building0011
+[2023.01.16-02.16.09:614][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0012...
+[2023.01.16-02.16.09:632][455]LogStaticMesh: Built static mesh [0.02s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0012.SM_TQ3280NE_Building0012
+[2023.01.16-02.16.09:633][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0013...
+[2023.01.16-02.16.09:733][455]LogStaticMesh: Built static mesh [0.10s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0013.SM_TQ3280NE_Building0013
+[2023.01.16-02.16.09:751][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0014...
+[2023.01.16-02.16.09:777][455]LogStaticMesh: Built static mesh [0.03s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0014.SM_TQ3280NE_Building0014
+[2023.01.16-02.16.09:787][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0015...
+[2023.01.16-02.16.09:900][455]LogStaticMesh: Built static mesh [0.11s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0015.SM_TQ3280NE_Building0015
+[2023.01.16-02.16.09:922][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0016...
+[2023.01.16-02.16.09:944][455]LogStaticMesh: Built static mesh [0.02s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0016.SM_TQ3280NE_Building0016
+[2023.01.16-02.16.09:956][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0017...
+[2023.01.16-02.16.09:975][455]LogStaticMesh: Built static mesh [0.02s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0017.SM_TQ3280NE_Building0017
+[2023.01.16-02.16.09:975][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0018...
+[2023.01.16-02.16.09:994][455]LogStaticMesh: Built static mesh [0.01s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0018.SM_TQ3280NE_Building0018
+[2023.01.16-02.16.09:994][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0019...
+[2023.01.16-02.16.09:994][455]LogStaticMesh: Built static mesh [0.00s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0019.SM_TQ3280NE_Building0019
+[2023.01.16-02.16.09:995][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0020...
+[2023.01.16-02.16.10:250][455]LogStaticMesh: Built static mesh [0.25s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0020.SM_TQ3280NE_Building0020
+[2023.01.16-02.16.10:288][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0021...
+[2023.01.16-02.16.10:396][455]LogSlate: Window 'Save Content' being destroyed
+[2023.01.16-02.16.10:514][455]LogStreaming: Display: FlushAsyncLoading: 3 QueuedPackages, 0 AsyncPackages
+[2023.01.16-02.16.10:759][455]LogStaticMesh: Built static mesh [0.45s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0021.SM_TQ3280NE_Building0021
+[2023.01.16-02.16.10:759][455]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DirectionalLight': SunSky_C /Game/AccuCities/Maps/AccuCities_SeparateTexturedModel_Sample.AccuCities_SeparateTexturedModel_Sample:PersistentLevel.SunSky_2
+[2023.01.16-02.16.10:759][455]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Scene': SunSky_C /Game/AccuCities/Maps/AccuCities_SeparateTexturedModel_Sample.AccuCities_SeparateTexturedModel_Sample:PersistentLevel.SunSky_2
+[2023.01.16-02.16.10:759][455]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SkyAtmosphere': SunSky_C /Game/AccuCities/Maps/AccuCities_SeparateTexturedModel_Sample.AccuCities_SeparateTexturedModel_Sample:PersistentLevel.SunSky_2
+[2023.01.16-02.16.10:759][455]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SkyLight': SunSky_C /Game/AccuCities/Maps/AccuCities_SeparateTexturedModel_Sample.AccuCities_SeparateTexturedModel_Sample:PersistentLevel.SunSky_2
+[2023.01.16-02.16.10:759][455]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CompassMesh': SunSky_C /Game/AccuCities/Maps/AccuCities_SeparateTexturedModel_Sample.AccuCities_SeparateTexturedModel_Sample:PersistentLevel.SunSky_2
+[2023.01.16-02.16.10:765][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GN/VAOOWGOSR3OR2SSJG1I935
+[2023.01.16-02.16.10:765][455]LogSavePackage: Moving '../../../../../../GAME/MyProject3/Saved/VAOOWGOSR3OR2SSJG1I9352D85434F49C8C81C1F95FFA19998DA21.tmp' to '../../../../../../GAME/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GN/VAOOWGOSR3OR2SSJG1I935.uasset'
+[2023.01.16-02.16.10:785][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0022...
+[2023.01.16-02.16.10:796][455]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AccuCities/Maps/AccuCities_SeparateTexturedModel_Sample.AccuCities_SeparateTexturedModel_Sample
+[2023.01.16-02.16.10:807][455]Cmd: MAP LOAD FILE="../../../../../../GAME/MyProject3/Content/AccuCities/Maps/AccuCities_SeparateTexturedModel_Sample.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.16-02.16.10:807][455]LightingResults: New page: Lighting Build
+[2023.01.16-02.16.10:808][455]LoadErrors: New page: Loading map: AccuCities_SeparateTexturedModel_Sample.umap
+[2023.01.16-02.16.10:885][455]LogStaticMesh: Built static mesh [0.04s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0022.SM_TQ3280NE_Building0022
+[2023.01.16-02.16.10:885][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0023...
+[2023.01.16-02.16.10:885][455]LogStaticMesh: Built static mesh [0.02s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0023.SM_TQ3280NE_Building0023
+[2023.01.16-02.16.10:885][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0024...
+[2023.01.16-02.16.10:885][455]LogStaticMesh: Built static mesh [0.03s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0024.SM_TQ3280NE_Building0024
+[2023.01.16-02.16.10:885][455]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-02.16.10:885][455]LogStaticMesh: Display: Building static mesh SM_TQ3280NE_Building0025...
+[2023.01.16-02.16.10:885][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-02.16.10:928][455]MapCheck: New page: Map Check
+[2023.01.16-02.16.10:928][455]LightingResults: New page: Lighting Build
+[2023.01.16-02.16.10:971][455]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.16-02.16.10:983][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.01.16-02.16.11:005][455]LogTexture: Display: Waiting for textures to be ready 3/535 (/Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/T_TQ3280NE_Building0001) ...
+[2023.01.16-02.16.11:992][455]LogStaticMesh: Built static mesh [0.12s] /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/SM_TQ3280NE_Building0025.SM_TQ3280NE_Building0025
+[2023.01.16-02.16.12:033][455]LogTexture: Display: Building textures: /Game/AccuCities/Models/Cities/London/Tiles/TQ3280/Textured/NE/T_TQ3280NE_Building0001.T_TQ3280NE_Building0001 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
