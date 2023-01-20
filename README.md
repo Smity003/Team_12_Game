@@ -8,7 +8,7 @@ Run the project envoirnment in Unreal Engine ,download Folder named Rescue city
 
 Download game from https://drive.google.com/drive/folders/1R1x_ZCB7QFnC5gWdk0yvDPBP7IpTIgGv?usp=share_link
 
-Run the game executable ,download folder named Game_Final 
+Run the game executable ,download folder named Executable 
 
 Min requirements -
       good graphic card with 6-8 Gb of Graphic memory minimum 
